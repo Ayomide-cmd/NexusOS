@@ -2,7 +2,7 @@
 
 A simulated company workspace for incident investigation. Users navigate between four interconnected apps — Forge, Pulse, Courier, and Atlas — to trace a real bug from ticket to root cause.
 
-Built with Next.js 15, TypeScript, Tailwind CSS, and Zustand.
+Built with Next.js 15, TypeScript, and Zustand.
 
 ---
 
